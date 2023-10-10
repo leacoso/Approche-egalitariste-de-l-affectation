@@ -1,0 +1,102 @@
+
+Gurobi 10.0.0 (mac64[x86], gurobi_cl) logging started Tue Nov 22 15:26:30 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-11-17
+Using license file /Users/leacoso/gurobi.lic
+
+Gurobi 10.0.0 (mac64[x86], gurobi_cl) logging started Tue Nov 22 15:27:53 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-11-17
+Using license file /Users/leacoso/gurobi.lic
+
+Gurobi Optimizer version 10.0.0 build v10.0.0rc2 (mac64[x86])
+Copyright (c) 2022, Gurobi Optimization, LLC
+
+
+Error 10012: Unknown file type for file 'PL.py'
+
+
+Gurobi 10.0.0 (mac64[x86], gurobi_cl) logging started Tue Nov 22 15:28:01 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-11-17
+Using license file /Users/leacoso/gurobi.lic
+
+Gurobi 10.0.0 (mac64[x86], Python) logging started Tue Nov 22 15:29:07 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-11-17
+
+Gurobi 10.0.0 (mac64[x86], Python) logging started Tue Nov 22 15:29:19 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-11-17
+
+Gurobi 10.0.0 (mac64[x86], Python) logging started Tue Nov 22 15:41:22 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-11-17
+Read LP format model from file test.LP
+Reading time = 0.00 seconds
+: 0 rows, 0 columns, 0 nonzeros
+Read LP format model from file test.LP
+Reading time = 0.00 seconds
+: 0 rows, 0 columns, 0 nonzeros
+Error reading LP format file test.LP at line 2
+LP format file must begin with a keyword
+Neighboring tokens: " import gurobipy as gp from gurobipy import GRB "
+
+
+Gurobi 10.0.0 (mac64[x86], Python) logging started Tue Nov 22 15:50:19 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-11-17
+
+Gurobi 10.0.0 (mac64[x86], Python) logging started Tue Nov 22 15:59:24 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-11-17
+
+Gurobi 10.0.0 (mac64[x86], Python) logging started Tue Nov 22 16:08:01 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-11-17
+
+Gurobi 9.5.2 (mac64[x86], Python) logging started Wed Nov 23 20:15:17 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-11-17
+
+Gurobi 9.5.2 (mac64[x86], Python) logging started Wed Nov 23 20:23:02 2022
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2023-11-17
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (mac64[x86])
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Model fingerprint: 0xf9715da1
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds (0.00 work units)
+Optimal objective  0.000000000e+00
